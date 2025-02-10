@@ -86,8 +86,8 @@ Potential improvements include:
 
 ## 9. Conclusion & Demo
 
-DEMO LINK : [https://drive.google.com/file/d/1WesyfRzWciBWCblDlmsLtsCX-WfNHW6U/view?usp=sharing]
-https://drive.google.com/file/d/19XPzOYJ0I5UFWKTK0T9_piPXFMWE8g_4/view?usp=sharing
+DEMO VIDEO : [https://drive.google.com/file/d/1WesyfRzWciBWCblDlmsLtsCX-WfNHW6U/view?usp=sharing]
+DEMO IMAGE : https://drive.google.com/file/d/19XPzOYJ0I5UFWKTK0T9_piPXFMWE8g_4/view?usp=sharing
 
 This project successfully implements **sentiment analysis** using **BERT** and **Streamlit**, offering a user-friendly, real-time classification tool. Future enhancements will further improve accuracy and usability, making it a robust NLP solution.
 
